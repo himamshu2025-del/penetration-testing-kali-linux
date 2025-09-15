@@ -1,5 +1,3 @@
-lab-commands.md :
-
 # Lab commands and notes
 
 > Commands used during the penetration testing lab (lab target IP used in report: 192.168.169.130).
